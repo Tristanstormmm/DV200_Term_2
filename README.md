@@ -1,4 +1,4 @@
-# Interactive Development 200 Term 1 - Dentsist Admin Portal
+# Interactive Development 200 Term 2 - Dentsist Portal
 
 ![logo](./ReadMe_T2/logo.png)
 

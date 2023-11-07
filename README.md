@@ -36,15 +36,15 @@ Overall, the dental clinic management system I developed provides a comprehensiv
 
 1. **User Authentication:** The system includes a login functionality to ensure secure access. Different user roles are implemented, such as receptionists and administrators, each with their own set of permissions.
 
-    ![landing](./ReadMe_T2/feature_1.png)
+    ![login](./ReadMe_T2/feature_1.png)
 
 2. **Appointment Scheduling:** The system provides functionality to schedule appointments for patients. Receptionists can create, reschedule, and cancel appointments, while dentists can view their schedule and upcoming appointments. The scheduling feature includes date and time selection, as well as integration with the patient and dentist records.
 
-    ![comparison](./ReadMe_T2/feature_2.png)
+    ![appointments](./ReadMe_T2/feature_2.png)
 
 3. **Dentist Management:** The system allows for the management of dentists, including adding new dentists, editing their information, and deleting them if necessary. Each dentist has a profile with details such as name, surname, gender, age, email, phone number, and occupation. The addition of profile images for dentists is also supported.
 
-    ![timeline](./ReadMe_T2/feature_3.png)
+    ![dentist](./ReadMe_T2/feature_3.png)
 
 ## Concept Process
 
@@ -58,9 +58,9 @@ The project was conceived with the goal of creating an efficient system for mana
 
 The project's wireframes were meticulously designed, including screens for login, dashboard, and dentist management, ensuring a user-friendly interface and intuitive user experience.
 
-    ![timeline](./ReadMe_T2/Login.png)
-    ![timeline](./ReadMe_T2/Dashboard.png)
-    ![timeline](./ReadMe_T2/Dentists.png)
+![loginw](./ReadMe_T2/Login.png)
+![dashboardw](./ReadMe_T2/Dashboard.png)    
+![dentistsw](./ReadMe_T2/Dentists.png)
 
 ## Development Process
 

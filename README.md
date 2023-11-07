@@ -2,7 +2,7 @@
 
 ![logo](./ReadMe_T2/logo.png)
 
-## Project Overview
+## About The Project
 
 The project I developed is a dental clinic management system. It is designed to streamline various administrative tasks and improve the efficiency of a dental clinic. Here is a short overview of the key features and functionalities:
 

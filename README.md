@@ -1,8 +1,4 @@
-# Interactive Development 200 Term 2 - Dentist Admin Portal
-
-![logo](./ReadMe_T2/logo.png)
-
-## About the Project
+## Project Overview
 
 The project I developed is a dental clinic management system. It is designed to streamline various administrative tasks and improve the efficiency of a dental clinic. Here is a short overview of the key features and functionalities:
 
@@ -32,55 +28,53 @@ Overall, the dental clinic management system I developed provides a comprehensiv
 * MySql
 * Xampp
 
-## Features and Functionality
+## Features and Functionalities
 
-The "Crypto Compare" application offers the following key features:
+1. **User Authentication:** The system includes a login functionality to ensure secure access. Different user roles are implemented, such as receptionists and administrators, each with their own set of permissions.
 
-1. **Landing Dashboard:** Presents a comprehensive overview and breakdown of the most relevant properties of the selected cryptocurrency data set, using interactive Chart.js elements to visualize data.
-   
-![landing](./ReadMe_T2/feature_1.png)
+    ![landing](./ReadMe_T2/feature_1.png)
 
-2. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar chart to outline and compare the properties of the selected objects.
+2. **Appointment Scheduling:** The system provides functionality to schedule appointments for patients. Receptionists can create, reschedule, and cancel appointments, while dentists can view their schedule and upcoming appointments. The scheduling feature includes date and time selection, as well as integration with the patient and dentist records.
 
-![comparison](./ReadMe_T2/feature_2.png)
+    ![comparison](./ReadMe_T2/feature_2.png)
 
-3. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
+3. **Dentist Management:** The system allows for the management of dentists, including adding new dentists, editing their information, and deleting them if necessary. Each dentist has a profile with details such as name, surname, gender, age, email, phone number, and occupation. The addition of profile images for dentists is also supported.
 
-![timeline](./ReadMe_T2/feature_3.png)
+    ![timeline](./ReadMe_T2/feature_3.png)
 
 ## Concept Process
 
-The development process involved the following stages:
+The development process involved multiple stages, starting with the initial ideation phase and wireframing the user interface.
 
 ### Ideation
 
-The project was conceptualized with the primary aim of simplifying the process of comparing various cryptocurrencies. Taking inspiration from existing cryptocurrency comparison platforms, I brainstormed and designed wireframes to ensure an intuitive user interface.
+The project was conceived with the goal of creating an efficient system for managing various aspects of a dental clinic. The ideation phase focused on simplifying administrative tasks and improving overall workflow within the clinic environment.
 
 ### User-side Wireframes
 
-The project's wireframes were meticulously designed, including the home, compare, and timeline screens.
+The project's wireframes were meticulously designed, including screens for login, dashboard, and dentist management, ensuring a user-friendly interface and intuitive user experience.
 
-![loginw](./ReadMe_T2/Login.png)
-![dashboardw](./ReadMe_T2/Dashboard.png)
-![dentistw](./ReadMe_T2/Dentists.png)
+    ![timeline](./ReadMe_T2/Login.png)
+    ![timeline](./ReadMe_T2/Dashboard.png)
+    ![timeline](./ReadMe_T2/Dentists.png)
 
 ## Development Process
 
 ### Highlights
 
-During the development phase, I focused on creating a user-friendly cryptocurrency comparison tool with a comprehensive range of functionalities. The project involved meticulous exploration of cryptocurrency data and the seamless integration of APIs to facilitate efficient data retrieval and visualization. With a strong emphasis on user experience, I strived to ensure intuitive navigation and clear presentation of complex cryptocurrency data. Leveraging the latest technologies in the blockchain space, the project aimed to provide users with a seamless and insightful comparison of various cryptocurrencies, empowering them to make informed investment decisions.
+Throughout the development phase, the focus was on creating a comprehensive dental clinic management system that effectively streamlined administrative tasks. Emphasis was placed on optimizing user experience and ensuring efficient management of patient records, appointments, and dentist information.
 
 ### Challenges
 
-Throughout the development process, I encountered significant challenges primarily focused on implementing complex chart functionalities and effectively pulling data from the Coinranking API. Overcoming these obstacles provided valuable insights into the intricacies of data visualization and API integration, contributing to an enhanced understanding and proficiency in handling intricate cryptocurrency data sets.```
+The development process presented several challenges, primarily concerning the integration of various functionalities and ensuring smooth data management within the system. Overcoming these hurdles provided valuable insights into optimizing system performance and enhancing user accessibility.
 
 ## Future Implementation
 
-Moving forward, the "Crypto Compare" project has several areas for potential enhancements, including code optimization, increased user interactivity, and enhanced visual engagement. I plan to streamline the code further, improve overall consistency, and introduce additional interactive features to enhance the user experience.
+Moving forward, the dental clinic management system has significant potential for further enhancements. Future plans include refining the system's functionalities, improving user interaction, and implementing additional features to bolster the overall user experience.
 
 ## Conclusion
 
-The "Crypto Compare" project has provided me with an invaluable learning experience, highlighting the significance of effective communication, dedicated effort, and technical expertise. Despite the challenges encountered during the development process, this project has been instrumental in enhancing my problem-solving abilities and solidifying my understanding of essential software development principles. I look forward to implementing additional features and improvements in the future, leveraging the valuable knowledge gained from this project.
+The development of the dental clinic management system has been a rewarding experience, providing valuable insights into the intricacies of system development and management. The project has not only enhanced my technical skills but also deepened my understanding of efficient data management and user-focused application design.
 
 ## Contact
 
@@ -88,3 +82,4 @@ For any inquiries or further information, please feel free to reach out to:
 
 - **Tristan Storm** - [221195@virtualwindow.co.za]
 - **Project Link** - [Project Link](https://github.com/Tristanstormmm/FinalHandIn221195)
+

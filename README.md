@@ -24,61 +24,13 @@ Overall, the dental clinic management system I developed provides a comprehensiv
 
 ## Getting Started
 
-## Dependencies
-
-The following dependencies have been installed for this project:
-
-- **@testing-library/jest-dom:** ^5.16.5
-- **@testing-library/react:** ^13.4.0
-- **@testing-library/user-event:** ^13.5.0
-- **axios:** ^1.3.4
-- **bootstrap:** ^5.2.3
-- **chart.js:** ^4.2.1
-- **chartjs-adapter-date-fns:** ^3.0.0
-- **chartjs-adapter-moment:** ^1.0.1
-- **coinranking-api:** ^1.0.0
-- **date-fns:** ^2.29.3
-- **moment:** ^2.29.4
-- **react:** ^18.2.0
-- **react-chartjs-2:** ^5.2.0
-- **react-dom:** ^18.2.0
-- **react-router-dom:** ^6.10.0
-- **react-scripts:** 5.0.1
-- **web-vitals:** ^2.1.4
-
-### Prerequisites
-
-Before getting started, ensure you have the following software installed:
-
-- [React](https://react.dev/learn/installation)
-- [Chart.js](https://www.chartjs.org/docs/latest/getting-started/installation.html)
-- [Coinranking](https://developers.coinranking.com/api/documentation)
-- [React Router](https://reactrouter.com/en/main)
-
-### Installation
-
-To set up the project and install the necessary dependencies, follow these steps:
-
-1. Clone the repository from GitHub using the following command:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-
-Replace your-username and your-repository with your actual GitHub username and repository name.
-
-2. Navigate to the project directory:
-
-   cd your-repository
-
-3. Install the required dependencies using NPM:
-
-   npm install
-
-This will install all the dependencies listed in the package.json file, including the specific versions specified for each package.
-
-4. Handle any potential errors or conflicts during the installation process, and refer to the documentation for each dependency for more detailed setup instructions if needed.
-
-   Make sure to replace the placeholders such as your-username and your-repository with your actual GitHub username and repository name. Feel free to customize the instructions as needed to match your project specifics.
+### Built With
+* CSS
+* JavaScript
+* HTML
+* PHP
+* MySql
+* Xampp
 
 ## Features and Functionality
 

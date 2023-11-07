@@ -1,3 +1,7 @@
+# Interactive Development 200 Term 1 - Dentsist Admin Portal
+
+![logo](./ReadMe_T2/logo.png)
+
 ## Project Overview
 
 The project I developed is a dental clinic management system. It is designed to streamline various administrative tasks and improve the efficiency of a dental clinic. Here is a short overview of the key features and functionalities:

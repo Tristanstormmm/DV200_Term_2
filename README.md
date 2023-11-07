@@ -1,10 +1,26 @@
-# Interactive Development 200 Term 1 - Crypto Compare
+# Interactive Development 200 Term 2 - Dentist
 
-![logo](./ReadMe_T1/logo.png)
+![logo](./ReadMe_T2/logo.png)
 
 ## About the Project
 
-The "Crypto Compare" project is a comprehensive data-driven web application aimed at facilitating the comparison of various cryptocurrencies. Leveraging modern development technologies such as Node.js and React, the application integrates the Charts.js framework for advanced data visualization. This project serves as a practical application to explore and analyze intricate cryptocurrency data sets in a user-friendly and informative manner.
+The project I developed is a dental clinic management system. It is designed to streamline various administrative tasks and improve the efficiency of a dental clinic. Here is a short overview of the key features and functionalities:
+
+User Authentication: The system includes a login functionality to ensure secure access. Different user roles are implemented, such as receptionists and administrators, each with their own set of permissions.
+
+Dashboard: The dashboard provides an overview of important information, such as upcoming appointments, statistics, and notifications. It serves as the central hub for users to navigate through the system.
+
+Dentist Management: The system allows for the management of dentists, including adding new dentists, editing their information, and deleting them if necessary. Each dentist has a profile with details such as name, surname, gender, age, email, phone number, and occupation. The addition of profile images for dentists is also supported.
+
+Patient Management: The system enables the management of patients, allowing receptionists to add new patients, update their information, and view their details. Patient information typically includes name, contact details, medical history, and any upcoming or past appointments.
+
+Appointment Scheduling: The system provides functionality to schedule appointments for patients. Receptionists can create, reschedule, and cancel appointments, while dentists can view their schedule and upcoming appointments. The scheduling feature includes date and time selection, as well as integration with the patient and dentist records.
+
+Database Integration: The system integrates with a database to store and retrieve data, such as dentist and patient information, appointment details, and user credentials. The use of a database enhances data management and allows for efficient retrieval and manipulation of information.
+
+User Interface: The system includes a user-friendly interface with a responsive design. It utilizes HTML, CSS, and JavaScript to create visually appealing and intuitive web pages. The interface ensures easy navigation and accessibility across different devices.
+
+Overall, the dental clinic management system I developed provides a comprehensive solution for managing dentists, patients, and appointments. It improves administrative tasks, enhances organization, and facilitates effective communication within the dental clinic.
 
 ## Getting Started
 
@@ -70,15 +86,15 @@ The "Crypto Compare" application offers the following key features:
 
 1. **Landing Dashboard:** Presents a comprehensive overview and breakdown of the most relevant properties of the selected cryptocurrency data set, using interactive Chart.js elements to visualize data.
    
-![landing](./ReadMe_T1/feature_1.png)
+![landing](./ReadMe_T2/feature_1.png)
 
 2. **Comparison Page:** Includes a dedicated page for comparing two distinct objects from the data set. It utilizes Bar, Pie, and Radar chart to outline and compare the properties of the selected objects.
 
-![comparison](./ReadMe_T1/feature_2.png)
+![comparison](./ReadMe_T2/feature_2.png)
 
 3. **Timeline Page:** Displays a dynamic Line Graph that maps the entries of at least 5 different properties across the entire dataset. The timeline is interactive and allows users to change the displayed property via an input.
 
-![timeline](./ReadMe_T1/feature_3.png)
+![timeline](./ReadMe_T2/feature_3.png)
 
 ## Concept Process
 
@@ -92,9 +108,9 @@ The project was conceptualized with the primary aim of simplifying the process o
 
 The project's wireframes were meticulously designed, including the home, compare, and timeline screens.
 
-![homew](./ReadMe_T1/Home.png)
-![comparew](./ReadMe_T1/Compare.png)
-![timelinew](./ReadMe_T1/Timeline.png)
+![loginw](./ReadMe_T2/Login.png)
+![dashboardw](./ReadMe_T2/Dashboard.png)
+![dentistw](./ReadMe_T2/Dentists.png)
 
 ## Development Process
 
